@@ -1,0 +1,3 @@
+# Learn Agentic AI Engineering
+
+This repository contains code examples and exercises for the Agentic AI Engineering masterclass on Udemy. The course covers how to build intelligent agents using OpenAI's Agents SDK, including creating custom tools, leveraging built-in tools, and designing agent architectures. The examples are organized in Jupyter notebooks, which can be run interactively to explore the concepts and techniques taught in the course. Each notebook focuses on a specific aspect of agent development, from basic agent creation to advanced tool integration and multi-agent systems. The code is designed to be clear and educational, making it easy for learners to follow along and apply the concepts to their own projects.
