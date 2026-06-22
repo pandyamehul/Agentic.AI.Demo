@@ -1,6 +1,6 @@
-# Learn Agentic AI Engineering
+# Agentic AI Engineering Overview
 
-Documenting my learning journey in the Agentic AI Engineering masterclass on Udemy. This course covers the fundamentals of building intelligent agents, including concepts like memory, tool use, and decision-making. The notes will include code snippets, explanations, and insights gained from the course.
+Documenting exploration and journey in the Agentic AI Engineering masterclass on Udemy. This course covers the fundamentals of building intelligent agents, including concepts like memory, tool use, and decision-making. The notes will include code snippets, explanations, and insights gained from the course.
 
 ## Simple Agent implementation
 
